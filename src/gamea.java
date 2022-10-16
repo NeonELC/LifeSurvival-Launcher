@@ -8,7 +8,7 @@ public class gamea {
         JPanel panel = new JPanel();
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setPreferredSize(new Dimension(350, 600));
-        frame.setTitle("Force fire go");
+        frame.setTitle("Life Survival Launcher");
         frame.setBackground(Color.RED);
         frame.add(panel);
         //here is code for main menu  :)

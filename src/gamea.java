@@ -4,8 +4,8 @@ import java.awt.*;
 
 public class gamea {
     public static void main(String[] args) {
-        JPanel panel = new JPanel();
         JFrame frame = new JFrame();
+        JPanel panel = new JPanel();
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setPreferredSize(new Dimension(350, 600));
         frame.setTitle("Force fire go");
